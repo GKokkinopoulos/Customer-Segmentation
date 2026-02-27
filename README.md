@@ -18,8 +18,8 @@ You can find a summary of the results here:
 * FAMD was applied for dimension reduction and the scree plot revealed that 4 Principal Components should be used.
 * Elbow Method and Silhouette Analysis showed that 4 clusters should be created
 * The clusters were graphically evaluated by the use of 2-D and 3-D scatter plots.
-* The features that had the biggest contribution in the Principal Components were identified
-* The clusters were interpretted and described by the use of the features with the biggest contribution      
+* The features that had the biggest contribution in the Principal Components were identified.
+* The clusters were interpretted and described by the use of the features with the biggest contribution.      
 
 
 ## Licensing, Authors, Acknowledgements
